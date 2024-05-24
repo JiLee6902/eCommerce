@@ -1,0 +1,9 @@
+npm init -y
+tạo server.js
+npm i express --save
+
+==
+https://www.youtube.com/watch?v=qpIfPitAIX0&list=UUMOky92hx0lZxVBi2BJ6Zm2Hg&index=94
+npm i morgan:12:00
+helmet: 18:16
+compression: 21:55
